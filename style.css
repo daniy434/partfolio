@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+ h1 {
+    color: blue;
+    text-decoration: underline;
+    border: 3px dotted red;
+    padding: 10px;
+    border-radius: 6px;
+    text-align: center;
+ }
+ li {
+    text-decoration: underline;
+ } 
